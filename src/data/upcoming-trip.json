@@ -1,0 +1,449 @@
+{
+  "id": "spiti-expedition",
+  "eyebrow": "THE NEXT BIG ESCAPE",
+  "status": "UPCOMING · WINTER EDITION",
+  "title": "Spiti Valley — Winter Edition",
+  "region": "HIMACHAL PRADESH · INDIA",
+  "intro": "A guided and curated 6-night, 7-day road journey through high Himalayan roads, remote villages, ancient monasteries and winter landscapes. Travel with a small group in a comfortable Force Traveller.",
+  "duration": "6 nights · 7 days",
+  "routeLabel": "Delhi → Shimla → Spiti → Kinnaur → Delhi",
+  "heroImage": "https://wanderon-images.gumlet.io/gallery/new/2025/05/03/1746276929418-how-to-reach-kaza-spiti-valley.webp",
+  "heroAlt": "A vehicle travelling along a snowbound mountain road in Spiti Valley",
+  "tripVibe": [
+    "Winter edition",
+    "Small group",
+    "Force Traveller",
+    "6 nights · 7 days"
+  ],
+  "highlights": [
+    "Kinner Kailash views from Kalpa",
+    "Khab Sangam — the Spiti and Sutlej river confluence",
+    "Chicham Bridge",
+    "Hikkim post office",
+    "Langza and Komic villages",
+    "Ki Monastery and Dhankar",
+    "Tabo Monastery and homestay experience",
+    "Lingti Frozen Waterfall and Nako Lake",
+    "Chitkul in the Baspa Valley"
+  ],
+  "importantNote": "Winter travel is weather- and road-condition dependent. The brochure notes that Sangla/Raksham accommodation may shift to Kalpa if the road is closed. Dhankar visit is subject to road access. Confirm final routes, road status, batch dates, accommodation and pricing with the organiser before booking.",
+  "days": [
+    {
+      "day": "DAY 0",
+      "title": "Delhi to Shimla",
+      "route": "Delhi → Shimla",
+      "stay": "Overnight journey",
+      "summary": "Assemble at the Delhi boarding point and begin the overnight journey towards Shimla.",
+      "details": [
+        "Assemble at the boarding point in Delhi and head towards Shimla.",
+        "Overnight journey to Shimla."
+      ],
+      "destinations": [
+        {
+          "name": "Delhi",
+          "description": "The expedition begins at the designated boarding point. Meet the group before the overnight journey towards the hills.",
+          "image": "https://images.unsplash.com/photo-1587474260584-136574528ed5?auto=format&fit=crop&w=1000&q=85"
+        },
+        {
+          "name": "Shimla",
+          "description": "The first hill-town arrival on the route. The group reaches Shimla the following morning before continuing deeper into the Himalayas.",
+          "image": "https://images.unsplash.com/photo-1597074866923-dc0589150358?auto=format&fit=crop&w=1000&q=85"
+        }
+      ]
+    },
+    {
+      "day": "DAY 1",
+      "title": "The road to Kalpa",
+      "route": "Shimla → Kufri → Fagu → Narkanda → Rampur → Kalpa",
+      "stay": "Kalpa",
+      "summary": "Drive deeper into the Himalayas along the historic Hindustan–Tibet Road, arriving in Kalpa for views of Kinner Kailash.",
+      "details": [
+        "Reach Shimla by morning. After a quick pickup, begin the scenic drive deeper into the Himalayas.",
+        "Drive through Kufri, Fagu and Narkanda along the old Hindustan–Tibet Road (old HT Road).",
+        "Enjoy breakfast en route with mountain views.",
+        "Continue along the historic road through Kinnaur. The brochure describes its colonial-era route and vertical rock faces as an engineering achievement built with basic tools.",
+        "Reach Kalpa by evening and take in the views of Kinner Kailash.",
+        "Enjoy dinner and a peaceful night amid the Himalayan surroundings.",
+        "Overnight stay at Kalpa."
+      ],
+      "destinations": [
+        {
+          "name": "Shimla",
+          "description": "The morning pickup point before the road heads deeper into the Himalayas.",
+          "image": "https://images.unsplash.com/photo-1597074866923-dc0589150358?auto=format&fit=crop&w=1000&q=85"
+        },
+        {
+          "name": "Kufri",
+          "description": "A stop along the scenic hill road from Shimla towards Kinnaur.",
+          "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=1000&q=85"
+        },
+        {
+          "name": "Fagu",
+          "description": "A mountain route stop on the way through the old Hindustan–Tibet Road corridor.",
+          "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1000&q=85"
+        },
+        {
+          "name": "Narkanda",
+          "description": "A stop on the historic road as the journey continues towards Rampur and Kinnaur.",
+          "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1000&q=85"
+        },
+        {
+          "name": "Rampur",
+          "description": "A town along the Sutlej corridor on the route into Kinnaur.",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1000&q=85"
+        },
+        {
+          "name": "Kalpa",
+          "description": "The day ends in Kalpa, where the brochure highlights majestic views of Kinner Kailash. Overnight stay here.",
+          "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=1000&q=85"
+        }
+      ]
+    },
+    {
+      "day": "DAY 2",
+      "title": "Across the river confluence to Kaza",
+      "route": "Kalpa → Sangam → Kaza",
+      "stay": "Kaza",
+      "summary": "Watch the sunrise over Kinner Kailash, visit Khab Sangam and cross Khab Bridge before reaching Kaza.",
+      "details": [
+        "Wake up to sunrise over Kinner Kailash Peak.",
+        "After breakfast, begin the journey towards the higher Himalayas as the landscape changes from pine-clad slopes to Spiti’s stark terrain.",
+        "Continue to Khab Sangam, where the Spiti River meets the Sutlej River.",
+        "Cross the iconic Khab Bridge, marking the entry into Spiti Valley.",
+        "Watch the scenery change into dramatic gorges, snow-covered cliffs and small hamlets.",
+        "Arrive in Kaza by evening, check in, relax and enjoy dinner.",
+        "Overnight stay in Kaza."
+      ],
+      "destinations": [
+        {
+          "name": "Kalpa",
+          "description": "Start the day with the sunrise and views of Kinner Kailash before continuing east.",
+          "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=1000&q=85"
+        },
+        {
+          "name": "Khab Sangam",
+          "description": "The meeting point of the Spiti and Sutlej rivers, surrounded by towering mountain terrain.",
+          "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1000&q=85"
+        },
+        {
+          "name": "Khab Bridge",
+          "description": "The bridge crossing highlighted in the brochure as the gateway into the magical Spiti Valley.",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1000&q=85"
+        },
+        {
+          "name": "Kaza",
+          "description": "The lively heart and base for the next days of the expedition, known in the brochure for monasteries, cafés and warm hospitality.",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1000&q=85"
+        }
+      ]
+    },
+    {
+      "day": "DAY 3",
+      "title": "High villages and Chicham Bridge",
+      "route": "Kaza → Chicham Bridge → Hikkim → Langza → Komic → Kaza",
+      "stay": "Kaza",
+      "summary": "An early start for a full day around Kaza, visiting the bridge, the post office village and high-altitude settlements.",
+      "details": [
+        "This is a long day, so the brochure recommends starting early.",
+        "After breakfast, visit Chicham Bridge, described in the brochure as standing at 13,596 ft above a deep gorge.",
+        "Visit Hikkim and send postcards from the World’s Highest Post Office (as described in the brochure).",
+        "Continue to Komic, described in the brochure as the World’s Highest Village connected by a motorable road.",
+        "Admire views of Chau Chau Kang Nelda Peak and the Buddha Statue at Langza.",
+        "Return to Kaza by evening for dinner and overnight stay."
+      ],
+      "destinations": [
+        {
+          "name": "Chicham Bridge",
+          "description": "A dramatic bridge crossing over a deep gorge, with sweeping mountain views. The brochure lists its height as 13,596 ft.",
+          "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1000&q=85"
+        },
+        {
+          "name": "Hikkim",
+          "description": "Visit the village post office and send postcards from the location promoted in the brochure as the World’s Highest Post Office.",
+          "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1000&q=85"
+        },
+        {
+          "name": "Langza",
+          "description": "Known in the brochure for the Buddha Statue and views towards Chau Chau Kang Nelda Peak.",
+          "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1000&q=85"
+        },
+        {
+          "name": "Komic",
+          "description": "A high-altitude village described in the brochure as the World’s Highest Village connected by a motorable road.",
+          "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=1000&q=85"
+        },
+        {
+          "name": "Kaza",
+          "description": "Return to Kaza for dinner and overnight stay.",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1000&q=85"
+        }
+      ]
+    },
+    {
+      "day": "DAY 4",
+      "title": "Monasteries and the way to Tabo",
+      "route": "Kaza → Key (Ki) Monastery → Dhankar → Tabo",
+      "stay": "Tabo",
+      "summary": "Visit Ki Monastery, continue through remote hamlets and visit Dhankar if the road is open before reaching Tabo.",
+      "details": [
+        "Wake up to a crisp Himalayan morning in Kaza and have breakfast.",
+        "Visit the world-famous Ki Monastery. The brochure lists its height as 13,668 ft and describes its foundation in the 11th century CE.",
+        "Continue through remote hamlets tucked into rugged cliffs and mountain landscapes.",
+        "Visit Dhankar Monastery if the road is open. The brochure describes its cliffside setting overlooking the confluence of the Spiti and Pin rivers.",
+        "Reach Tabo by afternoon, a village along the Spiti River.",
+        "Visit the ancient Tabo Monastery, referred to in the brochure as the Ajanta of the Himalayas, known for murals and meditation caves.",
+        "Experience a local Spitian homestay. Dinner and overnight stay in Tabo."
+      ],
+      "destinations": [
+        {
+          "name": "Ki Monastery",
+          "description": "A celebrated monastery in Spiti. The brochure lists its location at 13,668 ft and describes its history as dating to the 11th century CE.",
+          "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1000&q=85"
+        },
+        {
+          "name": "Dhankar",
+          "description": "A dramatic cliffside monastery setting overlooking the confluence of the Spiti and Pin rivers. The visit is subject to road access.",
+          "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1000&q=85"
+        },
+        {
+          "name": "Tabo",
+          "description": "A village beside the Spiti River, known for its ancient monastery, murals and meditation caves. The brochure describes the monastery as around 1,000 years old.",
+          "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1000&q=85"
+        }
+      ]
+    },
+    {
+      "day": "DAY 5",
+      "title": "Frozen waterfall and Nako Lake",
+      "route": "Tabo → Lingti Frozen Waterfall → Nako Lake → Sangla",
+      "stay": "Sangla / Raksham (road dependent)",
+      "summary": "Leave Tabo for the Hidden Lingti Waterfall and Nako Lake before continuing towards Sangla.",
+      "details": [
+        "Begin with breakfast in Tabo before setting out towards Nako in Kinnaur district.",
+        "Stop at the Hidden Lingti Waterfall, described in the brochure as a serene, lesser-known place for photographs and a pause in nature.",
+        "Reach Nako Village and visit Nako Lake, which the brochure notes is often frozen in winter.",
+        "Arrive in Sangla by evening, a valley surrounded by deodars, glacial rivers and wooden homes.",
+        "Check in, enjoy dinner and stay overnight in Sangla. Breakfast and dinner are listed for this day.",
+        "The brochure notes that the stay may shift to Kalpa if the road to Sangla/Raksham is closed."
+      ],
+      "destinations": [
+        {
+          "name": "Tabo",
+          "description": "Depart from Tabo after breakfast and continue towards Nako.",
+          "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1000&q=85"
+        },
+        {
+          "name": "Lingti Frozen Waterfall",
+          "description": "The brochure calls this the Hidden Lingti Waterfall. Frozen conditions and safe access depend on the season and local conditions.",
+          "image": "https://images.unsplash.com/photo-1483664852095-d6cc6870702d?auto=format&fit=crop&w=1000&q=85"
+        },
+        {
+          "name": "Nako Lake",
+          "description": "A lake at Nako village, described in the brochure as often frozen in winter and framed by snow-covered peaks.",
+          "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1000&q=85"
+        },
+        {
+          "name": "Sangla",
+          "description": "A scenic valley of deodar trees, glacial rivers and wooden homes. The overnight stay is subject to road conditions.",
+          "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=1000&q=85"
+        }
+      ]
+    },
+    {
+      "day": "DAY 6",
+      "title": "Chitkul and the return to Delhi",
+      "route": "Sangla → Chitkul → Shimla → Delhi",
+      "stay": "Overnight journey to Delhi",
+      "summary": "Visit Chitkul, the last inhabited village highlighted in the brochure, then retrace the mountain road towards Shimla and Delhi.",
+      "details": [
+        "Wake up in Sangla Valley and enjoy breakfast.",
+        "After check-out, drive to Chitkul, described in the brochure as the last inhabited village of India near the Indo-Tibet border.",
+        "See the snow-clad landscape, traditional wooden houses and the Baspa River.",
+        "Walk through the village lanes, interact with locals and take in the mountain surroundings.",
+        "Begin the return journey towards Shimla.",
+        "From Shimla, continue the overnight drive back to Delhi."
+      ],
+      "destinations": [
+        {
+          "name": "Sangla",
+          "description": "Begin the return day surrounded by the valley’s pine forests and mountain peaks.",
+          "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=1000&q=85"
+        },
+        {
+          "name": "Chitkul",
+          "description": "A village near the Indo-Tibetan border region, known in the brochure for its wooden houses and the icy waters of the Baspa River.",
+          "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1000&q=85"
+        },
+        {
+          "name": "Shimla",
+          "description": "The route returns through Shimla before the overnight drive to Delhi.",
+          "image": "https://images.unsplash.com/photo-1597074866923-dc0589150358?auto=format&fit=crop&w=1000&q=85"
+        },
+        {
+          "name": "Delhi",
+          "description": "Continue overnight from Shimla towards Delhi.",
+          "image": "https://images.unsplash.com/photo-1587474260584-136574528ed5?auto=format&fit=crop&w=1000&q=85"
+        }
+      ]
+    },
+    {
+      "day": "DAY 7",
+      "title": "Reach Delhi by morning",
+      "route": "Arrival in Delhi",
+      "stay": "Trip concludes",
+      "summary": "Reach Delhi by morning. The winter expedition comes to an end with memories and new friends.",
+      "details": [
+        "Reach Delhi by morning.",
+        "The trip ends here with lifetime memories and new friends."
+      ],
+      "destinations": [
+        {
+          "name": "Delhi",
+          "description": "The planned arrival point and end of the expedition. Actual arrival can be affected by road, weather and traffic conditions.",
+          "image": "https://images.unsplash.com/photo-1587474260584-136574528ed5?auto=format&fit=crop&w=1000&q=85"
+        }
+      ]
+    }
+  ],
+  "about": [
+    "Spiti Valley is described in the trip brochure as a place where stories belong to a way of life one may never have imagined — a lake in the middle of nowhere, like an oasis in the mountains.",
+    "At 12,500 feet above sea level, Spiti Valley offers a different side of the Himalayas.",
+    "This guided and curated seven-day road trip is designed for travellers looking for an authentic Spiti Valley experience in a week. The shared journey travels in a comfortable Force Traveller through some of the valley’s popular villages, including Komic, described in the brochure as one of Asia’s highest villages.",
+    "The journey also visits the remarkable Ki Monastery and Tabo Monastery, described in the brochure as a 1,020-year-old UNESCO World Heritage Site."
+  ],
+  "organiser": " Strangers Map",
+  "contact": "8982429222",
+  "pricing": [
+    {
+      "vehicle": "Tempo Traveller",
+      "toFrom": "Delhi–Delhi",
+      "accommodation": "Double sharing",
+      "price": "₹18,999"
+    },
+    {
+      "vehicle": "Tempo Traveller",
+      "toFrom": "Delhi–Delhi",
+      "accommodation": "Triple sharing",
+      "price": "₹16,999"
+    },
+    {
+      "vehicle": "Tempo Traveller",
+      "toFrom": "Shimla–Shimla",
+      "accommodation": "Double sharing",
+      "price": "₹16,999"
+    },
+    {
+      "vehicle": "Tempo Traveller",
+      "toFrom": "Shimla–Shimla",
+      "accommodation": "Triple sharing",
+      "price": "₹14,999"
+    }
+  ],
+  "batches": [
+    {
+      "month": "October",
+      "dates": "10, 17, 24, 31"
+    },
+    {
+      "month": "November",
+      "dates": "7, 14, 21, 28"
+    },
+    {
+      "month": "December",
+      "dates": "5, 12, 19, 26"
+    },
+    {
+      "month": "January",
+      "dates": "2, 9, 16, 23, 30"
+    },
+    {
+      "month": "February",
+      "dates": "6, 13, 20, 27"
+    },
+    {
+      "month": "March",
+      "dates": "6, 13, 20, 27"
+    },
+    {
+      "month": "April",
+      "dates": "3, 10, 17, 24"
+    },
+    {
+      "month": "May",
+      "dates": "1, 8, 15, 22, 29"
+    }
+  ],
+  "stayNote": "Stay in Sangla/Raksham will depend upon road condition. If the road is closed, the stay shall be shifted to Kalpa.",
+  "includes": [
+    "Accommodation in hotel, homestay and guest house on double- and triple-sharing basis.",
+    "Transportation by Volvo / Tempo Traveller with a professional driver.",
+    "Daily breakfast from Day 1 to Day 6.",
+    "Dinner from Day 1 to Day 5.",
+    "Driver allowance, toll, parking, road tax, fuel charge and night halt.",
+    "Team coordinator / Captain throughout the trip.",
+    "Volvo ticket / Tempo Traveller from Delhi to Shimla.",
+    "Trip from Shimla onwards by Traveller."
+  ],
+  "excludes": [
+    "Entry fees to sightseeing spots, camera fees and optional activities, depending on the package selected.",
+    "Costs arising from natural calamities such as landslides and roadblocks; these are to be borne directly by the customer on the spot.",
+    "Anything not mentioned in the inclusions.",
+    "Alcohol, mineral water and lunch / refreshments on the highway.",
+    "Cost of heater."
+  ],
+  "winterNotes": [
+    "Temperatures in places such as Kaza and Tabo can drop below freezing.",
+    "The brochure says hotels provide water wherever possible for comfort.",
+    "Due to extreme cold, shared or chemical toilets may be used because regular plumbing can fail.",
+    "These arrangements are described in the brochure as necessary for safety and hygiene. Travellers are advised to arrive with an adventurous spirit."
+  ],
+  "accessories": [
+    "Mobile phone; BSNL is suggested in the brochure, while Jio prepaid is also said to work in most places.",
+    "Camera (your choice).",
+    "Mobile charger and power bank.",
+    "Sunglasses — recommended for safety and style.",
+    "Small water bottle for remote areas."
+  ],
+  "toiletries": [
+    "Toothbrush and toothpaste.",
+    "Toilet soap / hand sanitizer.",
+    "Tissue papers and hand towel.",
+    "Face wash and deodorant.",
+    "Sunscreen.",
+    "Lip guard / lip balm."
+  ],
+  "clothing": [
+    "Face mask.",
+    "Hand sanitizer.",
+    "One towel.",
+    "4–6 pairs of woollen socks.",
+    "Long boots / trekking shoes.",
+    "At least two light jackets.",
+    "Warm head cover, ear covers and forehead covers.",
+    "Two heavy woollen jackets.",
+    "Woollen hand gloves.",
+    "At least 1–2 pairs of thermal wear.",
+    "Raincoat — recommended for cold winds, mud and water on roads.",
+    "2–3 jeans / track pants and 3–4 T-shirts.",
+    "A lot of spirit."
+  ],
+  "whyUs": [
+    "Packages are described as hand-crafted and made by a traveller, not a designer.",
+    "Trade Mark Company.",
+    "ISO: 9001 certified company (as stated in the brochure).",
+    "Accepting only white money.",
+    "Trained professional staff with instructors in backup to take care.",
+    "Safety is stated as the number one priority.",
+    "Motto: friendship for decades."
+  ],
+  "terms": [
+    "Rates are calculated on the basis of the hotels mentioned.",
+    "Booking is confirmed only after receipt of advance payment.",
+    "If rooms are unavailable at the mentioned hotels, alternatives will be provided.",
+    "Volvo buses from Delhi are operated by third-party vendors. Stops and routes are not under direct control; in case of a breakdown, a backup will be arranged as soon as possible.",
+    "For triple room sharing, extra beds are not provided; floor mattresses are set up.",
+    "Roof carriers are not allowed on vehicles in this region. Bring luggage accordingly.",
+    "Star-category hotels may not be available in certain places; the best possible option will be provided for the tour.",
+    "If a 4x4 vehicle is required because of snowfall or road conditions, the additional cost is borne by guests and is not included in the package price."
+  ]
+}
